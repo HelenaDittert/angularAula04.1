@@ -1,0 +1,20 @@
+.banner{
+    min-height: 60vh;
+    background-color: #66cd00;
+    width: 90%;
+}
+
+.menu{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.menu a{
+    color: #fff;
+}
+
+.awesome{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+

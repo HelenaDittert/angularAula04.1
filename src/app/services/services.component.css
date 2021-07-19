@@ -1,0 +1,30 @@
+.services{
+    width: 80%;
+    font-family: 'Robot', sans-serif;
+}
+
+.services h3{
+    color: #807E7D;
+    padding-top: 5% ;
+}
+
+.sublinhado{
+    width: 100px;
+    margin: 0 auto;
+    border-top: solid 2px #66cd00;
+}
+
+.services .fundo-cinza{
+    background-color: #f8f8f8;
+}
+
+.services i{
+    font-size: 50px;
+    margin: 6% 0;
+}
+.services h6{
+    margin-bottom: 4%;
+}
+p{
+    color: #ABA4AE;
+}

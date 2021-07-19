@@ -1,0 +1,29 @@
+.notebook{
+    background-color: #F8F8F8;
+    width: 90%;
+    min-height: 50vh;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    color: gray;
+}
+
+.notebook h5{
+    color: #333;
+}
+
+.foguete{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background-color:#66cd00 ;
+    position: relative;
+}
+
+.fa-rocket{
+    color: #fff;
+    font-size: 20px;
+    position: absolute;
+    right: 30%;
+    top: 30%;
+}
+
